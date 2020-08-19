@@ -1,30 +1,37 @@
-<html>	
+<!doctype html>
+<html lang="en">	
 <head>
+	    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 	<tittle>
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 	</tittle>
 <!-- As a heading -->
-<nav class="navbar navbar-light bg-light">
-  <span class="navbar-brand mb-0 h1">Narvaez Real Estate</span>
+	<nav class="navbar navbar-light bg-light">
+  		<span class="navbar-brand mb-0 h1">Narvaez Real Estate</span>
 
-</nav>
+	</nav>
 
-<nav class="navbar navbar-dark bg-dark" style="background-color: #e3f2fd;">
-  <a class="navbar-brand" href="#">Narvaez Real Estate</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
+	<nav class="navbar navbar-dark bg-dark" style="background-color: #e3f2fd;">
+ 		<a class="navbar-brand" href="#">Narvaez Real Estate</a>
+  		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    	<span class="navbar-toggler-icon"></span>
+  		</button>
 
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  	<div class="collapse navbar-collapse" id="navbarSupportedContent">
+    	<ul class="navbar-nav mr-auto">
+     	 <li class="nav-item active">
+        	<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      	</li>
+     	 <li class="nav-item dropdown">
+       	 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Properties
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+        	</a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="#">For Sale</a>
           <a class="dropdown-item" href="#">For Rent</a>
           <div class="dropdown-divider"></div>
